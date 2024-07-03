@@ -16,7 +16,7 @@ const About = () => {
                 <div className="about_right">
                     <div className="about-para">
                         <p>
-                        I am a passionate and dedicated frontend developer excited to begin my professional journey. I have a strong foundation in frontend technologies and eager to contribute to the success and growth of an innovative organization and am enthusiastic about applying my skills to new projects.</p>
+                            I am a passionate and dedicated frontend developer excited to begin my professional journey. I have a strong foundation in frontend technologies and eager to contribute to the success and growth of an innovative organization and am enthusiastic about applying my skills to new projects.</p>
                         <p>My enthusiasm for learning and my commitment to excellence drive me to continually improve my skills and stay updated with the latest industry trends.</p>
                     </div>
                     <div className="about-skills">
@@ -33,7 +33,7 @@ const About = () => {
                             <hr style={{ width: "60%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>C++(OOP's)</p>
+                            <p>OOP's</p>
                             <hr style={{ width: "50%" }} />
                         </div>
                     </div>
