@@ -15,7 +15,7 @@ const Footer = () => {
                     </div>
                     {/* <img src={footer_logo} alt="" /> */}
                     <p>
-                    I am a frontend developer from Delhi, India, eager to start my career and gain experience in a dynamic and innovative company.</p>
+                    I am a MERN developer from Delhi, India, eager to start my career and gain experience in a dynamic and innovative company.</p>
                 </div>
                 <div className="footer-top-right">
                     <div className="footer-email-input">
